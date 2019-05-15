@@ -1,3 +1,6 @@
+Meagan McKinnon
+This repository is for Web Design Homework
+My name is Meagan and I am from Missoula and I am majoring in Psychology and Minoring in Business.
 responses.txt
 The internet is a global network providing a variety of information and communication facilities and the Web is a branch of the internet that allows documents to be connected and allows users to search for information
 The internet works by having a bunch of computers and browsers connected and when you search for example google it goes from your computer to your router then to other devices to find it and brings it back to your computer.
